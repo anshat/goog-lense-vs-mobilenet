@@ -1,0 +1,18 @@
+div{
+    background-color: white;
+    box-shadow: hotpink 5px 5px 35px;
+    
+}
+body{
+    background-color: black;
+    color: black;
+}
+span{
+    background-color: white;
+    color: black;
+    box-shadow: hotpink 5px 5px 35px;
+}
+img{
+    width: 120px;
+    height: 120px;
+}
